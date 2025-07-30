@@ -13,7 +13,8 @@ Core Functionality
 
 🗑️ Data Management: Delete individual vitals entries with swipe actions
 
-Smart Reminder System
+Smart Reminder System![1000101005](https://github.com/user-attachments/assets/1692ad08-90fa-4565-a42d-5b27922ac266)
+
 ⏰ 5-Hour Reminders: Automated notifications every 5 hours using WorkManager
 
 🔔 Custom Notifications:
