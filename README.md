@@ -13,7 +13,7 @@ Core Functionality
 
 🗑️ Data Management: Delete individual vitals entries with swipe actions
 
-Smart Reminder System![1000101005](https://github.com/user-attachments/assets/1692ad08-90fa-4565-a42d-5b27922ac266)
+Smart Reminder System
 
 ⏰ 5-Hour Reminders: Automated notifications every 5 hours using WorkManager
 
@@ -57,3 +57,5 @@ Build System: Gradle with KSP
 ![c](https://github.com/user-attachments/assets/1b7082b5-5860-45f0-ac2f-f5628390008d)
 ![b](https://github.com/user-attachments/assets/d8e88c97-cd2a-4369-97fa-3058e4d2729e)
 ![a](https://github.com/user-attachments/assets/809ae320-b3cc-4736-8943-e106f564aa58)
+![1000101005](https://github.com/user-attachments/assets/82589482-2515-44fe-af7e-ee75928abe77)
+
